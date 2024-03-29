@@ -31,6 +31,17 @@ O sistema oferece as seguintes operações:
 - Identificação do funcionário que recebeu o valor mais alto em benefícios no mês.
 - Identificação do vendedor que mais vendeu no mês.
 
+## Pré-requisitos
+Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
+
+- Java JDK 17 ou superior
+- IDE (Intellij, VSCode)
+
+## Instalação
+Clone este repositório:
+
+    git clone https://github.com/Bokinhass/Sistema_de_Gestao_de_Funcionarios
+
 ## Tecnologias Utilizadas
 
 - Java
