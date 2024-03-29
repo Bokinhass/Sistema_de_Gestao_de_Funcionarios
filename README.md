@@ -1,18 +1,19 @@
 # Sistema de Gestão de Funcionários
 
-Este é um projeto de exemplo de um sistema de gestão de funcionários desenvolvido em Java com Spring Boot. O sistema
-permite o cadastro de funcionários, vendedores e gerentes, além de calcular valores relacionados aos salários e
+Este é um projeto de exemplo de um sistema de gestão de funcionários desenvolvido em Java. O sistema
+permite o cadastro de funcionários e vendedores, além de calcular valores relacionados aos salários e
 benefícios dos funcionários.
 
 ## Classes
 
 #### Funcionário
 
-- A classe Funcionario representa um funcionário genérico da empresa, contendo nome, cargo e salário base.
+- A classe Funcionario representa um funcionário genérico da empresa, contendo nome, cargo, data de contratação e 
+  salário base.
 
 #### Vendedor
 
-- A classe Vendedor estende Funcionario e adiciona o campo vendasNoMes para rastrear o número de vendas
+- A classe Vendedor estende Funcionario e adiciona o campo vendas para rastrear o número de vendas
   realizadas no
   mês.
 
